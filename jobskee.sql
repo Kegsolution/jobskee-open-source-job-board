@@ -32,7 +32,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`id`, `email`, `password`) VALUES
-(1, 'admin@example.com', 'd033e22ae348aeb5660fc2140aec35850c4da997');
+(1, 'jobjunction9ja@gmail.com', 'Jobjunction901#');
 
 -- --------------------------------------------------------
 
